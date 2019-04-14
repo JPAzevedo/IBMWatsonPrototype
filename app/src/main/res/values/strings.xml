@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IBM Watson - The Prototype</string>
+    <string name="action_settings">Settings</string>
+    <string name="transcriptionDefault">Press the mic to start listening</string>
+    <string name="ibMicDescription">To start transcribing what user says</string>
+    <string name="rbPlainText">Plain Text</string>
+    <string name="rbAlphanumeric">Alphanumeric</string>
+    <string name="tvTranscriptionStrategy">Transcription Strategy</string>
+    <string name="rbUs_us">American English</string>
+    <string name="rbUs_uk">British English</string>
+    <string name="rbPt_br">Portuguese (Brazilian)</string>
+    <string name="tvLanguage">Language</string>
+
+</resources>
