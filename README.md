@@ -1,21 +1,10 @@
-# BRA - B# Recruitment App 
+# IBM Watson - Speech to Text PoC
 
-This app was developed during a recruiting process.<br/> 
-The app calls some web services that can be found in the following url:
-
-```http://docs.blissrecruitmentapi.apiary.io```
-
-The user can find a list of questions about programming languages. The users are able to:
-- Search and filter questions
-- Get details about the questions
-- Choose their option through a voting screen
-- Share information by e-mail
+This app intends to test the capability that IBM Watson IBM has currently available.
 
 ## APIs
 
-- [Gson][1]
-- [OkHttp][2]
-- [Picasso][3]
+- [IBM Watson SDK][1]
 
 ## Setup Instructions
 
