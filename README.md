@@ -38,4 +38,5 @@ NOTE: This is a test. So there isn't any app key to official deploy the app on G
 - targetSdkVersion: 28
 
 [1]: https://github.com/watson-developer-cloud/android-sdk
+[4]: http://www.oracle.com/technetwork/java/javase/downloads/index.html
 
